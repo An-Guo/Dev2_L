@@ -1,0 +1,23 @@
+Mobile Software Development
+Dev2_L
+Topics included
+Background: black/dark gray
+Text: Comic Sans MS, color white
+Description:
+This project is to develop an Android Mobile App to access the learning material of this
+course. The mobile app should mimic the organization of the course material in the same
+modular way as in the D2L web course system. The specifications include:
+1) A top-level module “Start Here” with sub-modules:
+  a. “Welcome”
+  b. “Syllabus”
+  c. “Lab Report Instruction”
+  d. “Project Instruction”
+2) Another top-level module, “Learning Modules”, with 13 lesson sub-modules, and
+each sub-module has two children sub-modules:
+  a. “Slides”
+  b. “Lab”
+3) User registration and authentication (This can be implemented as the last step since
+we will talk about the data and security in the last week, but you are highly
+encouraged to do your research to have it done in advance.)
+
+You are allowed to be creative in the UI designs.
